@@ -22,5 +22,4 @@ A complete Java desktop application using Swing, AWT, and MySQL for managing hot
 
 ## 📂 Project Structure
 - `src/` → Java source files
-- `sql/` → SQL database dump
 - `lib/` → JDBC driver
